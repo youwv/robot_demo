@@ -1,0 +1,23 @@
+abb:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50  
+  
+  # Position Controllers ---------------------------------------
+  joint_position_controller:
+    type: position_controllers/JointGroupPositionController
+    joints: 
+      - joint_1
+      - joint_2
+      - joint_3
+      - joint_4
+      - joint_5
+      - joint_6
+
+  # Position Controllers ---------------------------------------
+  gripper_joint_position_controller:
+    type: position_controllers/JointGroupPositionController
+    joints: 
+      - panda_finger_joint1
+      - panda_finger_joint2

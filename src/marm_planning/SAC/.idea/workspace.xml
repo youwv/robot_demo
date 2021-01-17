@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dacf485-ce4d-433c-b420-5070e503bd90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m6Sn3VfDbLi96sThUWnQeEHkcx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sac_torch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sac_torch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="virtual_env" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SAC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/virtual_env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.new" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.sac_torch" />
+        <item itemvalue="Python.virtual_env" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dacf485-ce4d-433c-b420-5070e503bd90" name="Default Changelist" comment="" />
+      <created>1608812710611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608812710611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609225863064">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state x="570" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1005@0.24.1920.1005" timestamp="1609225863064" />
+    <state x="698" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609238018630">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state x="698" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1920.1005@0.24.1920.1005" timestamp="1609238018630" />
+    <state x="689" y="271" key="FileChooserDialogImpl" timestamp="1609397261466">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state x="689" y="271" key="FileChooserDialogImpl/0.24.1920.1005@0.24.1920.1005" timestamp="1609397261466" />
+    <state width="1894" height="2" key="GridCell.Tab.0.bottom" timestamp="1609720607448">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.0.bottom/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607448" />
+    <state width="1894" height="2" key="GridCell.Tab.0.center" timestamp="1609720607448">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.0.center/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607448" />
+    <state width="1894" height="2" key="GridCell.Tab.0.left" timestamp="1609720607447">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.0.left/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607447" />
+    <state width="1894" height="2" key="GridCell.Tab.0.right" timestamp="1609720607448">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.0.right/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607448" />
+    <state width="1894" height="2" key="GridCell.Tab.1.bottom" timestamp="1609720607449">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.1.bottom/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607449" />
+    <state width="1894" height="2" key="GridCell.Tab.1.center" timestamp="1609720607449">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.1.center/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607449" />
+    <state width="1894" height="2" key="GridCell.Tab.1.left" timestamp="1609720607449">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.1.left/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607449" />
+    <state width="1894" height="2" key="GridCell.Tab.1.right" timestamp="1609720607449">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state width="1894" height="2" key="GridCell.Tab.1.right/0.24.1920.1005@0.24.1920.1005" timestamp="1609720607449" />
+    <state x="599" y="223" width="719" height="678" key="search.everywhere.popup" timestamp="1609400946391">
+      <screen x="0" y="24" width="1920" height="1005" />
+    </state>
+    <state x="599" y="223" width="719" height="678" key="search.everywhere.popup/0.24.1920.1005@0.24.1920.1005" timestamp="1609400946391" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/try.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sac_torch.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

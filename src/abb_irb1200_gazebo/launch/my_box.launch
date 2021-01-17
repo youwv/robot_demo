@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- load urdf -->
+  <param name="box_description" command="$(find xacro)/xacro --inorder '$(find abb_irb1200_gazebo)/urdf/my_box.urdf'" />
+
+  <!-- spawn my_box in gazebo -->
+  <node name="my_box_spawn" pkg="gazebo_ros" type="spawn_model" output="screen" args="-urdf -param box_description -model my_box" />
+
+</launch>

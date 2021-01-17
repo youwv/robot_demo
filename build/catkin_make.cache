@@ -1,0 +1,2 @@
+abb_590_moveit_config:abb_irb1200_gazebo:abb_irb1200_support:abb_resources:franka_description:joint_demo:marm_planning:service_demo:topic_demo
+-DCATKIN_DEVEL_PREFIX=/home/you/robotiq/devel -DCMAKE_INSTALL_PREFIX=/home/you/robotiq/install -G Unix Makefiles

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro" name="abb">
+  <xacro:include filename="$(find abb_irb1200_support)/urdf/irb1200_7_70.xacro"/>
+  <xacro:include filename="$(find abb_irb1200_support)/urdf/hand.xacro"/>
+  <xacro:hand ns="panda" rpy="0 0 ${-pi/4}" connected_to="flange" safety_distance="0.03"/>
+</robot>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<launch>
+  <arg name="paused" default="false"/>
+  <!-- start simulated world -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="worlds/empty.world"/>
+    <arg name="gui" value="true"/>
+    <arg name="paused" value="$(arg paused)"/>
+  </include>
+
+  <!-- load urdf -->
+  <param name="abb_irb1200_support" command="$(find xacro)/xacro --inorder '$(find abb_irb1200_support)/urdf/arm_hand_urdf.xacro'" />
+
+  <!-- spawn robot in gazebo -->
+  <node name="abb_irb1200_spawn" pkg="gazebo_ros" type="spawn_model" output="screen" args="-urdf -param abb_irb1200_support -model abb_irb1200_7_70" />
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/you/robotiq/install
+
+Name: joint_demo
+Description: Description of joint_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
